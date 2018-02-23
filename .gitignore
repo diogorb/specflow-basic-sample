@@ -1,0 +1,4 @@
+﻿specflow/bin
+specflow/obj
+.vs
+packages
